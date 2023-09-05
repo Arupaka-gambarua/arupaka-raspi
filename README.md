@@ -1,2 +1,4 @@
 # arupaka-raspi
-Using rasberrypy
+
+## ITスキル実習で使うファイル
+この文章はテストです。
